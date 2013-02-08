@@ -1,0 +1,10 @@
+{
+  "name": "ALQuran",
+	"version": "1",
+	"manifest_version": 2,
+	"description": "This Extension is the Holy Quran created by Mohammad Rijwan.",
+	"browser_action": {
+	"default_icon": "icon.png",
+	"default_popup": "popup.html"
+        }
+}
